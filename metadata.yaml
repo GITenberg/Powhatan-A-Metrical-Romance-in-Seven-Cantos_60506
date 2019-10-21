@@ -1,0 +1,26 @@
+_repo: Powhatan-A-Metrical-Romance-in-Seven-Cantos_60506
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Smith, Seba
+    aliases:
+    - Downing, Jack
+    - Smith, John
+    birthdate: 1792
+    deathdate: 1868
+    gutenberg_agent_id: '38116'
+    url: http://www.gutenberg.org/2009/agents/38116
+    wikipedia: http://en.wikipedia.org/wiki/Seba_Smith
+description: ''
+gutenberg_issued: '2019-10-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60506'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Powhatan; A Metrical Romance, in Seven Cantos
+url: http://www.gutenberg.org/ebooks/60506
